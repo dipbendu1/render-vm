@@ -8,7 +8,7 @@ fi
 
 PORT="${PORT:-10000}"
 echo "============================================================"
-echo "  EVILSAAD JUPYTER - Starting secure notebook workspace"
+echo "  DBGAMING JUPYTER - Starting secure notebook workspace"
 echo "  Port: ${PORT}"
 echo "============================================================"
 exec start-notebook.py \
