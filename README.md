@@ -1,4 +1,4 @@
-# EVILSAAD JUPYTER
+# DB GAMING JUPYTER
 
 Custom-branded JupyterLab container for Render.
 
