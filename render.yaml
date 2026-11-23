@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: evilsaad-jupyter
+    name: dbgaming-jupyter
     runtime: docker
     plan: free
     healthCheckPath: /api
